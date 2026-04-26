@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">rich-text-editor</string>
+    <string name="post_list_title">Notes</string>
+    <string name="create_document_fab_content_description">Create document</string>
+    <string name="create_document_fab_label">New note</string>
+    <string name="create_document_title">New document</string>
+    <string name="create_document_field_label">Title</string>
+    <string name="create_document_ok">Create</string>
+    <string name="create_document_cancel">Cancel</string>
+    <string name="editor_title">Edit</string>
+    <string name="editor_document_title_label">Document title</string>
+    <string name="editor_heading_label">Heading</string>
+    <string name="heading_body">Body</string>
+    <string name="editor_remove_block">Remove block</string>
+    <string name="editor_add_paragraph">Add paragraph</string>
+    <string name="editor_bullet_list">Bullet list</string>
+    <string name="editor_numbered_list">Numbered list</string>
+    <string name="editor_add_list_item">Add list item</string>
+    <string name="insert_image_content_description">Insert image</string>
+    <string name="editor_overflow_content_description">More options</string>
+    <string name="editor_add_bullets">Add bullet list</string>
+    <string name="editor_add_numbered">Add numbered list</string>
+    <string name="image_content_description">Document image</string>
 </resources>
